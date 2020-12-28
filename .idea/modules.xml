@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/src/EA4/EA4.iml" filepath="$PROJECT_DIR$/src/EA4/EA4.iml" />
       <module fileurl="file://$PROJECT_DIR$/IntelliJ Projekte.iml" filepath="$PROJECT_DIR$/IntelliJ Projekte.iml" />
     </modules>
   </component>
